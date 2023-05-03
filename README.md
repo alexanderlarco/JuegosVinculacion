@@ -15,3 +15,4 @@ Correr juego con el siguiente comando serve -s build asi podra direccionarse des
 comando para correr en caso de que no valga "serve -s build" 
 serve -d build
 
+# vinculacion-sociedad-diabetes-juvenil
